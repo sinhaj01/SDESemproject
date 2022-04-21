@@ -1,0 +1,12 @@
+adminroute\domain\bean\DeleteRouteInfo.class
+adminroute\AdminRouteApplication.class
+adminroute\domain\response\DeleteRouteResult.class
+adminroute\domain\response\GetRoutesListlResult.class
+adminroute\domain\response\CreateAndModifyRouteResult.class
+adminroute\domain\bean\CreateAndModifyRouteInfo.class
+adminroute\controller\AdminRouteController.class
+adminroute\service\AdminRouteService.class
+adminroute\domain\request\CreateAndModifyRouteRequest.class
+adminroute\service\AdminRouteServiceImpl.class
+adminroute\domain\request\DeleteRouteRequest.class
+adminroute\domain\bean\Route.class
