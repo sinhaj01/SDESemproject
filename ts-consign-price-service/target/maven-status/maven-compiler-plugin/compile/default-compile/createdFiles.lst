@@ -1,0 +1,8 @@
+consignprice\controller\ConsignPriceController.class
+consignprice\service\ConsignPriceService.class
+consignprice\init\InitData.class
+consignprice\ConsignPriceApplication.class
+consignprice\service\ConsignPriceServiceImpl.class
+consignprice\domain\GetPriceDomain.class
+consignprice\domain\PriceConfig.class
+consignprice\repository\ConsignPriceConfigRepository.class
